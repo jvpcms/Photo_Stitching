@@ -2,3 +2,4 @@ matplotlib
 ipympl
 numpy
 opencv-python-headless
+PyQt5
